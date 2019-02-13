@@ -1,0 +1,74 @@
+body {
+  font-family: 'Abel', sans-serif;
+  
+}
+
+/*Logo/Navigation Start*/
+
+.LandN li {
+  list-style-type: none;
+  display: inline;
+}
+
+.LandN li a {
+  padding: 16px;
+  background-color: #ddddd;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  list-style: none;
+}
+
+nav {
+  float: right;
+  margin-top: 30px;
+}
+
+/*Logo/Navigation End*/
+
+/*Body Top Start*/
+
+.bodytop {
+  right: 0;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.bodytop .bodytop1, .bodytop .bodyimg, .bodytop .bodytop2 {
+  display: inline-block;
+}
+
+.bodytop .bodytop1 {
+  float: left;
+  margin-left: 135px;
+  margin-top: 75px;
+}
+
+.bodytop .bodyimg {
+  margin: 0 auto;
+}
+
+.bodytop .bodytop2 {
+  float: right;
+  margin-right: 135px;
+  margin-top: 75px;
+}
+
+.clearbody {
+  clear: both;
+}
+
+/*Body Top End*/
+
+/*Blog Start*/
+
+.blog h1 {
+  text-align: center;
+  margin-top: 75px;
+}
+
+.blog h1 a {
+  text-decoration: none;
+  background-color: #ddddd;
+  color: black;
+}

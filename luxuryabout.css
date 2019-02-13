@@ -1,0 +1,24 @@
+.LandN li {
+  list-style-type: none;
+  display: inline;
+}
+
+.LandN li a {
+  padding: 16px;
+  background-color: #ddddd;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  list-style: none;
+}
+
+nav {
+  float: right;
+  margin-top: 30px;
+}
+
+p {font-size: 200%;}
+
+
+body {
+  font-family: 'Abel', sans-serif;
